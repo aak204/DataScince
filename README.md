@@ -1,3 +1,3 @@
 # Projects Data Science
 ## Проекты
-* [Breakdance](https://breakdance.github.io/breakdance/)
+* [Проект 0. Игра: Угадай число](https://breakdance.github.io/breakdance/)
