@@ -10,7 +10,7 @@
 ## Проект 0. Игра: Угадай число
 **Описание**: Простая игра, где компьютер пытается угадать загаданное число.
 **Технологии**: Python, бинарный поиск
-[Открыть в Colab](https://colab.research.google.com/github/[username]/[repository]/blob/master/project_0/project_0.ipynb)
+[Открыть в Colab](https://colab.research.google.com/github/[username]/[repository]/blob/master/project_0/Угадай_число.ipynb)
 
 ## Установка и Запуск
 Чтобы открыть проекты, вы можете использовать Google Colab или Visual Studio Code:
