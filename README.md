@@ -1,4 +1,4 @@
-![image](https://github.com/aak204/DataScince/assets/61950261/c155e009-230b-463f-8c83-d355a271143b)# Data science проекты
+# Data science проекты
 
 Этот репозиторий содержит серию проектов по анализу данных и машинному обучению, выполненных в Jupyter Notebooks.
 
