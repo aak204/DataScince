@@ -27,7 +27,7 @@
 
 **Технологии**: python, pandas, SQL, SQLAlchemy.
 
-**Ссылка на данные**: [Загрузить данные](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing).
+**Ссылка на данные**: [загрузить данные](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing).
 
 ## Проект 3. Booking reviews
 **Описание**: проект по обнаружению нечестных отелей на платформе Booking через предсказание рейтинга отеля.
@@ -37,6 +37,8 @@
 **Проблематика**: нечестные отели, накручивающие себе рейтинг.
 
 **Важность**: помогает выявлять подозрительные отели и улучшает качество сервиса.
+
+**Ссылка на данные**: [загрузить данные](https://www.kaggle.com/competitions/sf-booking/overview).
 
 ## Установка и запуск
 Чтобы открыть проекты, вы можете использовать Visual Studio Code:
