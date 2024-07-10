@@ -22,7 +22,7 @@
 
 ## Установка и запуск
 1. Клонируйте репозиторий.
-2. Откройте файл `hh_analysis.ipynb` в Jupyter Notebook или JupyterLab.
+2. Откройте файл `Project_1.ipynb` в Jupyter Notebook или JupyterLab.
 3. Запустите все ячейки для выполнения кода.
 
 ## Лицензия
